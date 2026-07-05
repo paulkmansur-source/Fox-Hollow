@@ -20,6 +20,8 @@ Use only this GitHub repository for Fox Hollow:
 
 ## Approval Rules
 
+Paul has granted standing permission to commit and push Fox Hollow repository changes when they are needed to complete an approved task. Still summarize what was committed and pushed afterward.
+
 Ask Paul before:
 
 - creating or changing cron jobs / automations
