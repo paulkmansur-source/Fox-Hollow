@@ -1,0 +1,62 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+temp/
+.cache/
+
+# Build outputs / dependency folders
+build/
+dist/
+out/
+coverage/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Unreal Engine generated folders/files, if this becomes an Unreal project
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+
+# Unity generated folders/files, if this becomes a Unity project
+Library/
+Obj/
+Temp/
+Logs/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln.DotSettings.user
+
+# Local-only Hermes/project scratch files
+.hermes-local/
+agent-output/
